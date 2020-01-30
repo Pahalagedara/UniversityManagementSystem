@@ -1,5 +1,6 @@
-package com.company;
+package Interfaces;
 
+import javax.swing.*;
 import java.sql.*;
 import java.sql.DriverManager;
 import java.sql.PreparedStatement;
@@ -35,8 +36,6 @@ public class Signup extends Authentication {
 
 
     public void addStudent() {
-
-        System.out.println("enter the student");
         try {
             Class.forName("com.mysql.jdbc.Driver");
             Connection con = DriverManager.getConnection("jdbc:mysql://localhost:3306/university", "root", "");
@@ -45,6 +44,7 @@ public class Signup extends Authentication {
             con.close();
         } catch (Exception e) {
             System.out.println(e);
+            JOptionPane.showMessageDialog(null,"Username already exist","Error",2);
         }
     }
 
@@ -57,6 +57,7 @@ public class Signup extends Authentication {
             con.close();
         } catch (Exception e) {
             System.out.println(e);
+            JOptionPane.showMessageDialog(null,"Username already exist");
         }
     }
 }

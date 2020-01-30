@@ -3,6 +3,35 @@
   <component name="ChangeListManager">
     <list default="true" id="eed1d06d-e368-4e41-a202-bce47e76f0af" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java project/com/company/DBconnection.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java project/com/company/DBconnection.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java project/com/company/FirstPage$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java project/com/company/FirstPage$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java project/com/company/FirstPage$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java project/com/company/FirstPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java project/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java project/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java project/com/company/SecoundPage$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java project/com/company/SecoundPage$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java project/com/company/SecoundPage$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java project/com/company/SecoundPage$4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java project/com/company/SecoundPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java project/com/company/Signin.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java project/com/company/Signin.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java project/com/company/Signup.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java project/com/company/Signup.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java project/com/company/ThirdPage$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java project/com/company/ThirdPage$2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java project/com/company/ThirdPage$3.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java project/com/company/ThirdPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Authentication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Courses.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/DBconnection.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/FirstPage.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/FirstPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/SecoundPage.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/SecoundPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Signin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/Signup.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/ThirdPage.form" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/ThirdPage.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +89,9 @@
     <property name="settings.editor.selected.configurable" value="copyright" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="cli" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\entertainment\java project\UMS\imag" />
       <recent name="D:\entertainment\java project\UMS" />
@@ -67,9 +99,61 @@
       <recent name="D:\entertainment\java project\UMS\src\com\company" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+  <component name="RunManager" selected="Application.Main (3)">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.cli.Main" />
+      <module name="java project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cli.cli.Main" />
+      <module name="java project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cli.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="java project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Interfaces.Main" />
+      <module name="java project" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Interfaces.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.interfaces.Main" />
       <module name="java project" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -79,7 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Main (3)" />
+        <item itemvalue="Application.Main (4)" />
+        <item itemvalue="Application.Main (2)" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -151,6 +239,10 @@
       <workItem from="1580277113721" duration="665000" />
       <workItem from="1580280062098" duration="20000" />
       <workItem from="1580384733731" duration="1297000" />
+      <workItem from="1580388537875" duration="156000" />
+      <workItem from="1580389017917" duration="427000" />
+      <workItem from="1580389572705" duration="909000" />
+      <workItem from="1580390518713" duration="592000" />
     </task>
     <task id="LOCAL-00001" summary="ums with gui v-2">
       <created>1580206875222</created>
@@ -191,6 +283,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="566" y="298" width="403" height="236" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1579708839500" />
+    <state x="566" y="319" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1580389622270">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="566" y="319" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.824@0.0.1536.824" timestamp="1580389622270" />
     <state x="269" y="167" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1579770574395">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -207,22 +303,22 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="722" y="155" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1578764323476" />
-    <state width="1493" height="147" key="GridCell.Tab.0.bottom" timestamp="1580384758743">
+    <state width="1493" height="147" key="GridCell.Tab.0.bottom" timestamp="1580391110262">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="147" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580384758743" />
-    <state width="1493" height="147" key="GridCell.Tab.0.center" timestamp="1580384758743">
+    <state width="1493" height="147" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1580391110262" />
+    <state width="1493" height="147" key="GridCell.Tab.0.center" timestamp="1580391110262">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="147" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580384758743" />
-    <state width="1493" height="147" key="GridCell.Tab.0.left" timestamp="1580384758743">
+    <state width="1493" height="147" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1580391110262" />
+    <state width="1493" height="147" key="GridCell.Tab.0.left" timestamp="1580391110262">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="147" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580384758743" />
-    <state width="1493" height="147" key="GridCell.Tab.0.right" timestamp="1580384758743">
+    <state width="1493" height="147" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1580391110262" />
+    <state width="1493" height="147" key="GridCell.Tab.0.right" timestamp="1580391110262">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1493" height="147" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580384758743" />
+    <state width="1493" height="147" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1580391110262" />
     <state width="1493" height="98" key="GridCell.Tab.1.bottom" timestamp="1580209790055">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -251,10 +347,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="647" y="208" key="UIDesigner.ListEditorDialog/0.0.1536.824@0.0.1536.824" timestamp="1579808347396" />
-    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1580280073243">
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog" timestamp="1580389575530">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1580280073243" />
+    <state x="465" y="238" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1580389575530" />
     <state x="555" y="294" key="com.intellij.uiDesigner.propertyInspector.editors.string.StringEditorDialog" timestamp="1579864477121">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -267,10 +363,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="193" key="extract.method.dialog/0.0.1536.824@0.0.1536.824" timestamp="1578830031172" />
-    <state x="209" y="34" key="new project wizard" timestamp="1579773079381">
+    <state x="209" y="34" key="new project wizard" timestamp="1580388699724">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="209" y="34" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1579773079381" />
+    <state x="209" y="34" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1580388699724" />
     <state x="425" y="187" key="run.anything.popup" timestamp="1580212825353">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -287,6 +383,11 @@
           <url>jar://C:/Program Files/Java/jdk1.8.0_181/src.zip!/java/lang/Runnable.java</url>
           <line>54</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Interfaces/Main.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

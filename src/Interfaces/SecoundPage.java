@@ -1,10 +1,9 @@
-package com.company;
+package Interfaces;
 
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
-import java.util.logging.Logger;
 
 
 public class SecoundPage extends JFrame{
